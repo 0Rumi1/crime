@@ -47,8 +47,8 @@
   
 ## Prerequisite
 
-import pandas as pd
-import matplotlib.pyplot as plt    
+import pandas as pd   
+import matplotlib.pyplot as plt         
 from matplotlib import font_manager, rc
 
 <br>
