@@ -83,7 +83,7 @@ CrimeDF=pd.read_csv(FILE1)
 * 마약류는 코로나 시점과 관계없이 꾸준히 증가하는 추세이다.
 * 범죄 종류 중 마약류 범죄 증가. 마약의 수요와 공급
 
-!![image](https://user-images.githubusercontent.com/122415320/235565134-b6578f28-aea2-4b4a-89b8-4f803381d05e.png)
+![image](https://user-images.githubusercontent.com/122415320/235565134-b6578f28-aea2-4b4a-89b8-4f803381d05e.png)
 
 
 <br> 
