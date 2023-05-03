@@ -91,7 +91,7 @@ from matplotlib import font_manager, rc
 
 ## 사용법
 
-* '외국인_범죄현황.csv' 소스 파일 다운로드
+* '외국인_범죄현황.csv' 파일 불러오기
 
 ```
 import pandas as pd
@@ -107,7 +107,7 @@ CrimeDF=pd.read_csv(FILE1)
 ## 결과
 1. 데이터 분석
 * 마약류는 코로나 시점과 관계없이 꾸준히 증가하는 추세이다.
-* 범죄 종류 중 마약류 범죄 증가. 마약의 수요와 공급
+* 범죄 유형 중 마약류 범죄 증가하는 것으로보아 국내에서 마약의 수요와 공급이 잘 이루어지는 것으로 보임
 
 ![image](https://user-images.githubusercontent.com/122415320/235565134-b6578f28-aea2-4b4a-89b8-4f803381d05e.png)
 
